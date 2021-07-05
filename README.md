@@ -4,15 +4,25 @@
 
 > I'm passionate about two things in life: Coding and Gaming. I approach every code challenge as a Dark Souls boss.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
+## Stacks: 
+
+``
+const myStacks = {
+      lenguages: ["Ruby", "Vanilla JavaScript"],
+      Frameworks: ["Ruby On Rails", "React", "Redux"],
+      Basic Technologies: ["HTML5", "CSS3", "Sass"],
+      Testing: ["Rspec", "Capybara", "Jest"],
+      Bundler: ["Webpack"]
+};
+``
+
+## Contact me!
 
 <p align="left" style="display: inline;">
       <a href="https://github.com/GabrielJSuarez?tab=followers"><img src="https://img.shields.io/github/followers/GabrielJSuarez?label=Follow%20me&style=social"></a>
       <a href="https://twitter.com/Ginn_And_Jugo"><img src="https://img.shields.io/twitter/follow/Ginn_And_Jugo?style=social"></a>
       <a href="https://www.linkedin.com/in/gabriel-ginn-suarez/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
-</p>
-       	
-            
+</p>  
 
 ## :trophy: My Github Stats:
 
