@@ -6,11 +6,7 @@
       <a href="https://twitter.com/Ginn_And_Jugo"><img src="https://img.shields.io/twitter/follow/Ginn_And_Jugo?style=social"></a>
       <a href="https://www.linkedin.com/in/gabriel-ginn-suarez/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
 </p>
-
-## 🧰 Languages and Tools:
-<p align="left">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" placeholder="Windows">
-      
+       	
 </p>
 
 ## :trophy: My Github Stats:
