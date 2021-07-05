@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-
 <p align="center" style="display: inline;">
-      <a href="https://github.com/chubaquelo?tab=followers"><img src="https://img.shields.io/github/followers/chubaquelo?label=Follow%20me&style=social"></a>
-      <a href="https://www.twitter.com/sergioObolevich"><img src="https://img.shields.io/twitter/follow/sergioObolevich?style=social"></a>
-      <a href="https://www.linkedin.com/in/sergio-obolevich"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
+      <a href="https://github.com/GabrielJSuarez?tab=followers"><img src="https://img.shields.io/github/followers/GabrielJSuarez?label=Follow%20me&style=social"></a>
+      <a href="https://twitter.com/Ginn_And_Jugo"><img src="https://img.shields.io/twitter/follow/Ginn_And_Jugo?style=social"></a>
+      <a href="https://www.linkedin.com/in/gabriel-ginn-suarez/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
 </p>
-
 
 <!--
 **GabrielJSuarez/GabrielJSuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
