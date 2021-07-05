@@ -6,7 +6,7 @@
 
 ## Stacks: 
 
-``
+```javascript
 const myStacks = {
       lenguages: ["Ruby", "Vanilla JavaScript"],
       Frameworks: ["Ruby On Rails", "React", "Redux"],
@@ -14,7 +14,7 @@ const myStacks = {
       Testing: ["Rspec", "Capybara", "Jest"],
       Bundler: ["Webpack"]
 };
-``
+```
 
 ## Contact me!
 
