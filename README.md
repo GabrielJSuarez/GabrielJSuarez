@@ -1,8 +1,24 @@
-## Hi there 👋 I'm (Gabriel)[https://gabrieljsuarez.github.io/portfolio/], I'm a Full Stack Web Developer!
+## Hi there 👋 I'm [Gabriel](https://gabrieljsuarez.github.io/portfolio/), I'm a Full Stack Web Developer!
 
 </br>
 
 > I'm passionate about two things in life: Coding and Gaming. I approach every code challenge as a Dark Souls boss.
+
+```javascript
+const availableForWork = (() => {
+      const hireMe = () => {
+            if (positionOpen) {
+                  return 'Contact me!';
+            } else {
+                  return '1v1 me!';
+            };
+      };
+      
+      return {
+            hireMe
+      };
+})();
+```
 
 ## Stacks: 
 
