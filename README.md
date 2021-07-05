@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Gabriel][https://gabrieljsuarez.github.io/portfolio/], I'm a Full Stack Web Developer!
+## Hi there 👋 I'm (Gabriel)[https://gabrieljsuarez.github.io/portfolio/], I'm a Full Stack Web Developer!
 
 </br>
 
